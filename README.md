@@ -28,14 +28,71 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="images/certificate-1.png" alt="Certificate" width="100%"/>
+      <img src="images/certificate-1.png" alt="GitHub Copilot Fundamentals" width="100%"/>
       <br/>
       <sub><b>certificate.pdf</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="images/certificate-dvpgnvhvumfw-1785226723-1.png" alt="Certificate dvpgnvhvumfw" width="100%"/>
+      <img src="images/Software Development with GitHub Copilot-1.png" alt="Software Development with GitHub Copilot" width="100%"/>
+      <br/>
+      <sub><b>Software Development with GitHub Copilot.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/AI-Assisted Coding for Developers-1.png" alt="AI-Assisted Coding for Developers" width="100%"/>
+      <br/>
+      <sub><b>AI-Assisted Coding for Developers.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Advanced AI-Assisted Coding for Developers-1.png" alt="Advanced AI-Assisted Coding for Developers" width="100%"/>
+      <br/>
+      <sub><b>Advanced AI-Assisted Coding for Developers.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/AI Ethics-1.png" alt="AI Ethics" width="100%"/>
+      <br/>
+      <sub><b>AI Ethics.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/GitHub Foundations-1.png" alt="GitHub Foundations" width="100%"/>
+      <br/>
+      <sub><b>GitHub Foundations.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Introduction to Git-1.png" alt="Introduction to Git" width="100%"/>
+      <br/>
+      <sub><b>Introduction to Git.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Intermediate Git-1.png" alt="Intermediate Git" width="100%"/>
+      <br/>
+      <sub><b>Intermediate Git.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Introduction to GitHub Concepts-1.png" alt="Introduction to GitHub Concepts" width="100%"/>
+      <br/>
+      <sub><b>Introduction to GitHub Concepts.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Intermediate GitHub Concepts-1.png" alt="Intermediate GitHub Concepts" width="100%"/>
+      <br/>
+      <sub><b>Intermediate GitHub Concepts.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/certificate-dvpgnvhvumfw-1785226723-1.png" alt="Anthropic Claude 101" width="100%"/>
       <br/>
       <sub><b>certificate-dvpgnvhvumfw-1785226723.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
   <tr>
