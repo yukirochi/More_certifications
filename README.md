@@ -93,6 +93,18 @@
       <sub><b>certificate-dvpgnvhvumfw-1785226723.pdf</b></sub>
     </td>
     <td align="center" width="50%">
+      <img src="images/Introduction to Snowflake-1.png" alt="Introduction to Snowflake" width="100%"/>
+      <br/>
+      <sub><b>Introduction to Snowflake.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/sql_basic certificate-1.png" alt="SQL Basic Certificate" width="100%"/>
+      <br/>
+      <sub><b>sql_basic certificate.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
   <tr>
