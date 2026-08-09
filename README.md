@@ -105,18 +105,30 @@
       <sub><b>sql_basic certificate.pdf</b></sub>
     </td>
     <td align="center" width="50%">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <img src="images/Profile _ freeCodeCamp.JS.org-1.png" alt="freeCodeCamp JS" width="100%"/>
       <br/>
       <sub><b>Profile _ freeCodeCamp.JS.org.pdf</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%">
       <img src="images/Profile _ freeCodeCamp.org-1.png" alt="freeCodeCamp" width="100%"/>
       <br/>
       <sub><b>Profile _ freeCodeCamp.org.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/Introduction to Python-1.png" alt="Introduction to Python" width="100%"/>
+      <br/>
+      <sub><b>Introduction to Python.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Introduction to SQL-1.png" alt="Introduction to SQL" width="100%"/>
+      <br/>
+      <sub><b>Introduction to SQL.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
