@@ -129,6 +129,9 @@
       <sub><b>Introduction to SQL.pdf</b></sub>
     </td>
     <td align="center" width="50%">
+      <img src="images/Intermediate Python-1.png" alt="Intermediate Python" width="100%"/>
+      <br/>
+      <sub><b>Intermediate Python.pdf</b></sub>
     </td>
   </tr>
 </table>
