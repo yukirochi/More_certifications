@@ -134,4 +134,13 @@
       <sub><b>Intermediate Python.pdf</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Understanding Data Engineering-1.png" alt="Understanding Data Engineering" width="100%"/>
+      <br/>
+      <sub><b>Understanding Data Engineering.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
 </table>
