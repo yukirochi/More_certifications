@@ -141,6 +141,18 @@
       <sub><b>Understanding Data Engineering.pdf</b></sub>
     </td>
     <td align="center" width="50%">
+      <img src="images/flyrank-certificate-of-completion-machine-learning-6530af15-9814-42f6-90ce-5c30caf1b8d6-1.png" alt="flyrank-certificate-of-completion-machine-learning-6530af15-9814-42f6-90ce-5c30caf1b8d6" width="100%"/>
+      <br/>
+      <sub><b>flyrank-certificate-of-completion-machine-learning-6530af15-9814-42f6-90ce-5c30caf1b8d6.pdf</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Introduction to Importing Data in Python-1.png" alt="Introduction to Importing Data in Python" width="100%"/>
+      <br/>
+      <sub><b>Introduction to Importing Data in Python.pdf</b></sub>
+    </td>
+    <td align="center" width="50%">
     </td>
   </tr>
 </table>
