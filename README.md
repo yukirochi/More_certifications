@@ -153,6 +153,9 @@
       <sub><b>Introduction to Importing Data in Python.pdf</b></sub>
     </td>
     <td align="center" width="50%">
+      <img src="images/Intermediate Importing Data in Python-1.png" alt="Intermediate Importing Data in Python" width="100%"/>
+      <br/>
+      <sub><b>Intermediate Importing Data in Python.pdf</b></sub>
     </td>
   </tr>
 </table>
