@@ -158,4 +158,23 @@
       <sub><b>Intermediate Importing Data in Python.pdf</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/Advanced AI-Assisted Coding for Developers-0.png" alt="Advanced AI-Assisted Coding for Developers-0.png" width="100%"/>
+      <br/>
+      <sub><b>Advanced AI-Assisted Coding for Developers-0.png</b></sub>
+    </td>
+      <td align="center" width="50%">
+      <img src="images/Advanced AI-Assisted Coding for Developers-0.png" alt="Advanced AI-Assisted Coding for Developers-0.png" width="100%"/>
+      <br/>
+      <sub><b>Advanced AI-Assisted Coding for Developers-0.png</b></sub>
+    </td>
+  </tr>
+  <tr>
+      <td align="center" width="50%">
+      <img src="images/python_basic certificate-0.png" alt="python_basic certificate-0.png" width="100%"/>
+      <br/>
+      <sub><b>python_basic certificate-0.png</b></sub>
+    </td>
+  </tr>
 </table>
